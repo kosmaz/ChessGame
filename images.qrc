@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/ICONS/about.png</file>
+        <file>images/ICONS/exit.png</file>
+        <file>images/ICONS/new.png</file>
+        <file>images/BLACK_CHESS_PIECES/black0.png</file>
+        <file>images/BLACK_CHESS_PIECES/black1.png</file>
+        <file>images/BLACK_CHESS_PIECES/black2.png</file>
+        <file>images/BLACK_CHESS_PIECES/black3.png</file>
+        <file>images/BLACK_CHESS_PIECES/black4.png</file>
+        <file>images/BLACK_CHESS_PIECES/black5.png</file>
+        <file>images/WHITE_CHESS_PIECES/white0.png</file>
+        <file>images/WHITE_CHESS_PIECES/white1.png</file>
+        <file>images/WHITE_CHESS_PIECES/white2.png</file>
+        <file>images/WHITE_CHESS_PIECES/white3.png</file>
+        <file>images/WHITE_CHESS_PIECES/white4.png</file>
+        <file>images/WHITE_CHESS_PIECES/white5.png</file>
+        <file>images/ICONS/NOIMAGE.png</file>
+        <file>images/ICONS/ChessBoard.ico</file>
+        <file>sounds/check.wav</file>
+        <file>sounds/checkmate.wav</file>
+        <file>sounds/move.wav</file>
+        <file>sounds/stalemate.wav</file>
+    </qresource>
+</RCC>
